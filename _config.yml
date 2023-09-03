@@ -4,8 +4,12 @@ theme: just-the-docs
 
 url: https://cittadhammo.github.io/doc-test
 
+
+# Aux links for the upper right navigation
 aux_links:
-  dhammacharts: https:dhamamcharts.org
+  "DhammaCharts":
+    - "dhammacharts.org"
+
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
