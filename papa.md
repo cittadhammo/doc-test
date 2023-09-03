@@ -1,7 +1,7 @@
 ---
 title: papa
 layout: default
-has_childern: true
+has_children: true
 ---
 
 Test 456
