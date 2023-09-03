@@ -1,11 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Cittadhammo
+description: Personal Website
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://cittadhammo.github.io/doc-test
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  dhammacharts: https:dhamamcharts.org
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
