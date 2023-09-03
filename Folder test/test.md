@@ -1,4 +1,6 @@
-  ---
-title: test2
-layout: home
 ---
+title: test2
+layout: page
+---
+
+yrtest
