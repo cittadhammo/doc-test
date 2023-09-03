@@ -8,7 +8,7 @@ url: https://cittadhammo.github.io/doc-test
 # Aux links for the upper right navigation
 aux_links:
   "DhammaCharts":
-    - "dhammacharts.org"
+    - "https://www.dhammacharts.org"
 
 
 # Footer last edited timestamp
