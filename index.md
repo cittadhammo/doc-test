@@ -1,6 +1,6 @@
 ---
 layout: home
-title: cittadhammo.github.io
+title: home
 ---
  
 This is a personal website. Please do not share publicly.
