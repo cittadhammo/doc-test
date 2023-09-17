@@ -1,35 +1,66 @@
 ---
-title: Home
 layout: home
+title: cittadhammo.github.io
 ---
+ 
+This is a personal website. Please do not share publicly.
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+## Quick Links
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+- [bitwarden.com](https://vault.bitwarden.com/#/login) : Password Manager
+- [gmail.com](https://mail.google.com/mail/u/0/) : Email Provider
+- [drive.google.com](https://drive.google.com/drive/my-drive) : Cloud Storage
+- [hotmail.com](https://outlook.live.com/) : Email Provider
+- [proton.me](https://account.proton.me/login?language=en) : Email Provider
+- [observablehq.com](https://observablehq.com/) : Coding Online
+- [discord.com](https://discord.com/login) : Forum
+  -  [Dhamma en francais](https://discord.gg/U2T48jzCFZ) : French Dhamma Chat
+  -  [DhammaCharts](https://discord.gg/MkyKZh8ANy) : Dhamma Charts Chat
 
-More specifically, the created site:
+## Books
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+* Sutta Pitaka, by Gotama Buddha
+* The Path to Nibbana, by David Jonhson
+* Dhamma Within Reach, by Nyanamoli Bhikkhu
+* Awareness Alone is not enough, by Ashin Tejaniya 
+* Don't look Down on your Defilement, by Ashin Tejaniya
+* Begginings, by Samanera Bodhesako
+* Clearing the Path, by Nyanavira Bhikkhu
+* The Way yo Ultimate Calm, by Webu Sayadaw
+* For the Benefit of Many, by S.N. Goenka
+* The Art of Living, by William Hart
+* What the Buddha Thought, by Walpula Rahula
+* The Buddhsit Monk, by Mohan Wijayaratana
+* The Pilgrim Kamanita, by Karl Gierlup
+* Noble Stategy, by Thanissaro Bhikkhu
+* Staright from the Heart, by Luang Ta Maha Boowa
+* Still Forest Pool, by Ajahn Chah
+* Collective Teaching of Ajahn Chah
+* Stilness Flowing, by Ajahn Jayasaro
+* The Four Noble Turth, by Ajahn Sumedho
+* On the Path, by Thanissaro Bhikkhu
+* With Each & Every Breath, by Thanissaro Bhikkhu
+* First Things First, by Thanissaro Bhikkhu
+* The Island, by Passano Bhikkhu & Amaro Bhikkhu
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### To Consider
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+* The Shape of Ancient Thought
+* King, Warrior, Magician, Lover
 
-To get started with creating a site, simply:
+## Art
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+* Ba Khine (U Ba Kyi) : Art & Book "Illustrated History of Buddhsim"
+* Chakrabhand Posayakrit
+* Solias Mendis : Murals of Kelaniya
+* Jean Giraud (Mœbius)
+* Enki Billal
+* studio ghibli
+* Dall-E
+* Peace Pagoda
+* Chanting : Kiribathgoda Gnanananda Thero
+* Sri lankan tradition : [Galduwa Forest Tradition](https://en.wikipedia.org/wiki/Sri_Kalyani_Yogasrama_Samstha)
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
 
-----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
