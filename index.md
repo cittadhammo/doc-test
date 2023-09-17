@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-nav_index: 1
+nav_order: 1
 ---
  
 # Cittadhammo.github.io
