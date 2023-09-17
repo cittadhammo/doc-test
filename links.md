@@ -1,7 +1,10 @@
 ---
 title: Links 
 layout: page
+nav_order: 6
 ---
+
+# Links
 
 ### Dhamma in English
 
