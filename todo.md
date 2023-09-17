@@ -1,9 +1,21 @@
 ---
 title: todo
 layout: page
+nav_order: 4
 ---
 # To Do
- Art Craft
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+## Art Craft
 
 - Picture Hanger for Sutta Pitaka Chart
 - Picture Frame for Jhana paintings
