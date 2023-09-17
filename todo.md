@@ -1,5 +1,5 @@
 ---
-title: todo
+title: To do
 layout: page
 nav_order: 4
 ---
