@@ -1,5 +1,6 @@
 ---
 title: todo
+layout: page
 ---
 
 # Art Craft
