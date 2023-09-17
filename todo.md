@@ -49,6 +49,22 @@ layout: page
 # Just the doc
 - open edit in github on new window
 - edit color scheme
+- include in layout:
+```
+# Code
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+```
+- floating edit button on left sidebar
 
 # Call
 - papa
