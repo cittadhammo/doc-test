@@ -1,8 +1,11 @@
 ---
 layout: home
-title: home
+title: Home
+nav_index: 1
 ---
  
+# Cittadhammo.github.io
+
 This is a personal website. Please do not share publicly.
 
 ## Quick Links
