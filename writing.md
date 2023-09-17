@@ -1,5 +1,6 @@
 ---
 title: Writings
+layout: page
 ---
 
 # Boddhisatva at the Buddha's Time
