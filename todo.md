@@ -2,20 +2,20 @@
 title: todo
 layout: page
 ---
-
-# Art Craft
+# To Do
+ Art Craft
 
 - Picture Hanger for Sutta Pitaka Chart
 - Picture Frame for Jhana paintings
 - [Ink Pen](https://www.youtube.com/watch?v=Fq0iPacHOOY)
 
-# Translation
+## Translation
 
 - Ajahn Sucitto Sankhara
 - Ajahn Sumedho: les choses telles qu'elles sont.
   - Antidote pour Ajahn Sundara  
 
-# To do
+## To do
 - path to nibbana italian dhammatejo
 - sutta sujato
 - socks aline
@@ -46,11 +46,12 @@ layout: page
 - arch linux
 - digital garden jekyll
 
-# Just the doc
+## Just the doc
 - open edit in github on new window
 - edit color scheme
 - include in layout:
-```
+
+```md
 # Code
 {: .no_toc }
 
@@ -64,14 +65,16 @@ layout: page
 </details>
 
 ```
-- floating edit button on left sidebar
 
-# Call
+- floating edit button on left sidebar
+- underline in first and second header
+
+## Call
 - papa
 - Rémi
 - Fred
 
-# Aj. Amaro
+## Aj. Amaro
 - Pali Meťer 
   - Sobita
   - anubrahma
@@ -84,14 +87,14 @@ layout: page
 - clear montain
 - Sona
 
-# Quartz
+## Quartz
 - flex layout holygrail
 - menu
 - modal sort natural
 - Bible Vault
 - Nissabho Vault
 
-# Email
+## Email
 - tahn jagaro & Eliot
 - tahn dipako
 - Jotimanto
@@ -102,13 +105,13 @@ layout: page
   - Koreader
   - PTS dictionnary
 
-# Art
+## Art
 - OpenAI
 - Wrong View Chart
 - other chart
 - Art Murals Kelaniya
 
-# DhammaCharts.org
+## DhammaCharts.org
 - Shinzen Young Abhi
 - Ajahn Lee
 - small library ?
@@ -120,7 +123,7 @@ layout: page
 - Link Page
   - SuttaCentral, Reading Faithfully, paliAudio, Buddhist Library, E-Dhamma, dhammatalks.org, forestSangha.org, dscuss and dscocver.
 
-# Charts
+## Charts
 - The Dhamma Citadel : A 4NT Chart 
   - Brahmi Script
   - Northen Script gandhari
@@ -137,13 +140,13 @@ layout: page
   - Patidesaniya - Chart DN 34
   - Nettippakaranam
 
-# The great delusion monastery constitution
+## The great delusion monastery constitution
 - at least 4 bhikkhus locally present to modify the const.
 - full consensus and sangha act for it
 - Division of responsability
 - no micromagement. only full consencus decision
 
-# ABM
+## ABM
 - Wiki
   - User Perm Not working
   - Sync with Drive for search, input in page, share
@@ -152,7 +155,7 @@ layout: page
   - notification emails
   - Archive
 
-# Project
+## Project
 - OpenAI + Krita +midjourney
 - Samana Chart ?
 - Beyond the Tipitaka
@@ -162,12 +165,12 @@ layout: page
 - Pali table from dasilva and pali workbook
 - Obscidian Dhamma Bible
 
-# FLTM
+## FLTM
 - mail maman 2012
 - livres galaad
 - photos archive
 
-# The Dhamma Citadel (4NT Citadel) / The Castle of the Buddha / The Citadel of Dhamma
+## The Dhamma Citadel (4NT Citadel) / The Castle of the Buddha / The Citadel of Dhamma
 
 - Wise reflection S.V.102-107
 
