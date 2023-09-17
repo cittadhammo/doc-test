@@ -1,5 +1,6 @@
 ---
 title: code
+layout: page
 ---
 
 # Git
