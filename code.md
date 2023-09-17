@@ -1,13 +1,20 @@
 ---
 title: code
 layout: page
+nav_order: 5
 ---
 
-## Table of contents
-{: .no_toc .text-delta }
+# Navigation Structure
+{: .no_toc }
 
-1. TOC
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
 {:toc}
+</details>
 
 
 # Git
