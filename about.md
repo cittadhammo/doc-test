@@ -1,7 +1,10 @@
 ---
 title: About
 layout: page
+nav_order: 99
 ---
+
+# About
 
 Cittadhammo Bhikkhu
 
