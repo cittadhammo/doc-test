@@ -1,5 +1,6 @@
 ---
 title: Citadel
+layout: page
 ---
 
 1.
