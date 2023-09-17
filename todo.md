@@ -46,6 +46,10 @@ layout: page
 - arch linux
 - digital garden jekyll
 
+# Just the doc
+- open edit in github on new window
+- edit color scheme
+
 # Call
 - papa
 - Rémi
