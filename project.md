@@ -1,7 +1,10 @@
 ---
 title: Projects
 layout: page
+nav_index: 2
 ---
+
+# Projects
 
 ## Websites
 
