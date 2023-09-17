@@ -3,6 +3,13 @@ title: code
 layout: page
 ---
 
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+
 # Git
 
 	git pull origin
