@@ -1,5 +1,5 @@
 ---
-title: code
+title: Code
 layout: page
 nav_order: 5
 ---
