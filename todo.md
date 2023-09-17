@@ -93,7 +93,7 @@ nav_order: 4
 - Monastery Visit
 - Year away (pre settle status) Ajahn Sona or Norway or portugal or thailand
 
-# Talks
+## Talks
 - Buddhist History Syllabus
 - Guru Ingram Dhammarato
 - clear montain
