@@ -3,57 +3,57 @@ title: Writings
 layout: page
 ---
 
-# Boddhisatva at the Buddha's Time
+# Writings
 
-View at th Center from Ajahn Amaro
+## Boddhisatva at the Buddha's Time
 
-question of why nobody asked the Buddha how to become a Boddhisatta?
+- View at th Center from Ajahn Amaro
+- question of why nobody asked the Buddha how to become a Boddhisatta?
+- Bhikkhu Boddhikl
+- Bhikkhu Analayo the boddhistva Ideal
+- Bhante Sujato White Bones Red Rot Black Snake
 
-Bhikkhu Boddhikl
-Bhikkhu Analayo the boddhistva Ideal
-Bhante Sujato White Bones Red Rot Black Snake
+1. The Buddha achive Liberation trought the effort and inetention of this life only
+2. Why would you risk to postpone your liberation. Opposite of all the advice the Buddha give.
+3. Kamma is not straigthfoward
+4. Many conter argument for no compassion from the Buddha and wrong View
+5. Jataka is late and contradict itself
 
-1) The Buddha achive Liberation trought the effort and inetention of this life only
-2) Why would you risk to postpone your liberation. Opposite of all the advice the Buddha give.
-3) Kamma is not straigthfoward
-4) Many conter argument for no compassion from the Buddha and wrong View
-5) Jataka is late and contradict itself
+## Practical or Original Vinaya
 
-# Practical or Original Vinaya
+- search for original inteǹion in EBT. use of english, understanding of rules, use of sanghakamma, use of officer, no abbot, consencus, constitution by sanghakamma
+- tradition vs common sens & meaning
+- tradition brings unity
+- tradition is equivalent of quick mind (habit)
+- vinaya paranoid
+- magic thinking
+- analysis of patimokkha
+- WBRRBS
+- NP1 ParikkhalaCcola Not to be alloted
+- annocements
+- patimokkha question- 
 
-search for original inteǹion in EBT. use of english, understanding of rules, use of sanghakamma, use of officer, no abbot, consencus, constitution by sanghakamma
-tradition vs common sens & meaning
-tradition brings unity
-tradition is equivalent of quick mind (habit)
-vinaya paranoid
-magic thinking
-analysis of patimokkha
-WBRRBS
-NP1 ParikkhalaCcola Not to be alloted
-annocements
-patimokkha question
+## SPCG&E
 
-# SPCG&E
+- Prosodic  style with natural inclination
+- example with intro or invitation
+- 28 Buddha exercice
+- find faults, identify, 10 syl ?
 
-Prosodic  style with natural inclination
-example with intro or invitation
-28 Buddha exercice
-find faults, identify, 10 syl ?
+## model of enligthement
 
-# model of enligthement
+- stupa
 
-stupa
+## Serenité est le dernier mot
 
-# Serenité est le dernier mot
+## Analysis in Jhana
+- Anupada Sutta
 
-# Analysis in Jhana
-Anupada Sutta
+## 3 Charsceristics
+- after Jhana ?
+- use of them ?
 
-# 3 Charsceristics
-after Jhana ?
-use of them ?
-
-# Questions
+## Questions
 
 - Patimokkha in english
 - Sangha kamma in english
