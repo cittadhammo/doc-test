@@ -38,9 +38,9 @@ nav_order: 6
 - [nissarana.lk](https://www.nissarana.lk/audio-and-publications/publications-english/)
 
 more : 
-- https://www.reddit.com/r/theravada/wiki/index/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-- https://www.dhammawheel.com/viewtopic.php?f=13&t=3012
-- https://www.reddit.com/r/theravada/comments/y0h1n2/theravada_resources/
+- [reddit.com](https://www.reddit.com/r/theravada/wiki/index/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
+- [dhammawheel.com2](https://www.dhammawheel.com/viewtopic.php?f=13&t=3012)
+- [reddit.com](https://www.reddit.com/r/theravada/comments/y0h1n2/theravada_resources/)
 
 ### Dhamma en français
 
