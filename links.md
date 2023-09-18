@@ -77,7 +77,7 @@ This site is build on GitHub
 - [usefulcharts.com](https://usefulcharts.com/) : Nice website
 - [Masonry Layout](https://masonry.desandro.com/) : Very nice website layout using js and css
 - [Photo Editor](https://pixlr.com/) : Online Photo Editor
-- [Jekyll Template](https://chrisbobbe.github.io/jekyll-theme-prologue
+- [Jekyll Template](https://chrisbobbe.github.io/jekyll-theme-prologue)
 - [Markdown Online Editor](https://pandao.github.io/editor.md/en.html)
 
 ### Doc
