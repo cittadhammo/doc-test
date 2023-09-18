@@ -102,6 +102,7 @@ This site is build on GitHub
 
 - https://www.charlottebuddhistvihara.org/audio-talks-and-chants/
 - https://bhanterahula.blogspot.com/p/chanting.html
+- https://archive.org/download/Venerable.Kiribathgoda.Gnanananda.Thero
 
 ### Poster
 
