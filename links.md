@@ -114,10 +114,15 @@ This site is build on GitHub
 - [Dirty Marmotte](http://dirtymarmotte.net/)
 - [Similies Buddha](https://buddhistuniversity.net/content/monographs/similes-of-the-buddha_hecker)
 - [http://paulgraham.com/quo.html](http://paulgraham.com/quo.html)
+- [https://wiby.me/](https://wiby.me/)
+- [http://www.windows93.net/](http://www.windows93.net/)
+- [https://tilde.club/~basil/](https://tilde.club/~basil/)
+- https://tilde.club/
+- https://tilde.club/~wells/
 
 ### Font
 
-- SC FONTS:
+- SC FON  TS:
   - [https://fonts.google.com/specimen/Vollkorn+SC?query=vollkorn+sc](https://fonts.google.com/specimen/Vollkorn+SC?query=vollkorn+sc)
   - [https://fonts.google.com/specimen/Cormorant+SC?query=cormorant+sc](https://fonts.google.com/specimen/Cormorant+SC?query=cormorant+sc)
   - [https://fonts.google.com/specimen/Spectral+SC?query=spectral+sc](https://fonts.google.com/specimen/Spectral+SC?query=spectral+sc)
