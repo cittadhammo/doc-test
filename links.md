@@ -113,6 +113,7 @@ This site is build on GitHub
 
 - [Dirty Marmotte](http://dirtymarmotte.net/)
 - [Similies Buddha](https://buddhistuniversity.net/content/monographs/similes-of-the-buddha_hecker)
+- [http://paulgraham.com/quo.html](http://paulgraham.com/quo.html)
 
 ### Font
 
@@ -126,7 +127,7 @@ This site is build on GitHub
 - In betwwen : 
   - [https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC](https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC)
 
-foot
+### foot
 
 - https://anyasreviews.com/why-birkenstocks-arent-long-term-solution-foot-pain/?ssp_iabi=1683746986428
 
