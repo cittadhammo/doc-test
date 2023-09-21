@@ -120,6 +120,8 @@ This site is build on GitHub
 - https://tilde.club/
 - https://tilde.club/~wells/
 - https://tilde.town/~vilmibm/
+- https://cosmic.voyage/
+- https://tildeverse.org/members/
 
 ### Font
 
