@@ -16,6 +16,9 @@ nav_order: 5
 {:toc}
 </details>
 
+# SFTP with VScode
+
+- [pantheon.io](https://docs.pantheon.io/guides/sftp/vscode-sftp)
 
 # Git
 
