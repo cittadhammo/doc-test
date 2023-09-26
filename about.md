@@ -37,3 +37,5 @@ Buddhist monk in the UK
 - [fractalcitta](https://github.com/fractalcitta)
 - [SanghaDeLaForet](https://github.com/SanghaDeLaForet)
 - [Yyatiko](https://github.com/Yyatiko)
+
+This site uses [Just the Docs](https://just-the-docs.com/), a documentation theme for Jekyll.
