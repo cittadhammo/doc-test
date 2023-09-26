@@ -5,6 +5,16 @@ nav_order: 2
 ---
 
 # Projects
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Websites
 
