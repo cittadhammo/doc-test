@@ -3,7 +3,7 @@ description: Personal Website
 theme: just-the-docs
 
 url: https://cittadhammo.github.io/
-
+favicon_ico: "favicon.ico"
 
 # Aux links for the upper right navigation
 aux_links:
