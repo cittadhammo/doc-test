@@ -7,8 +7,8 @@ url: https://cittadhammo.github.io/
 
 # Aux links for the upper right navigation
 aux_links:
-  DhammaCharts: https://www.dhammacharts.org
-
+  - DhammaCharts: https://www.dhammacharts.org
+  - Tilde: http://tilde.club/~cittadhammo/
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
