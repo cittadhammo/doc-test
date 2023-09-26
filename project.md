@@ -35,7 +35,7 @@ nav_order: 2
     - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Ol_zqnCYlKcm5olJX1-MFQKBx9NtAj-9Yg2i1uLMU9g/edit#gid=0)
     - [Chart](https://observablehq.com/d/7d76764d2f83a602)
  
-## Art
+### Art
   - Jhana Illustration for Jhana book
   - 13 Satipathana
   - Transcendent Dep. Origination
@@ -51,7 +51,7 @@ nav_order: 2
   - Marketing
   - Translation
 
-## Proof-reading
+### Proof-reading
 
 - Ajahn Sucitto's work
   - Les Sankhara 
