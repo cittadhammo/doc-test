@@ -8,7 +8,7 @@ nav_order: 1
 
 This is a personal website. Please do not share publicly.
 
-<pre style="line-height: 1; font-size: xx-small;">
+<pre style="line-height: 1; font-size: x-small;">
  ______     __     ______   ______   ______     _____     __  __     ______     __    __     __    __     ______    
 /\  ___\   /\ \   /\__  _\ /\__  _\ /\  __ \   /\  __-.  /\ \_\ \   /\  __ \   /\ "-./  \   /\ "-./  \   /\  __ \   
 \ \ \____  \ \ \  \/_/\ \/ \/_/\ \/ \ \  __ \  \ \ \/\ \ \ \  __ \  \ \  __ \  \ \ \-./\ \  \ \ \-./\ \  \ \ \/\ \  
