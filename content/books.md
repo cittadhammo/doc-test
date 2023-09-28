@@ -1,11 +1,10 @@
 ---
 title: Books 
-layout: post
 nav_order: 7
 toc: true
 ---
 
-## Books
+## Nice Books
 
 * Sutta Pitaka, by Gotama Buddha
 * The Path to Nibbana, by David Jonhson
@@ -31,7 +30,7 @@ toc: true
 * First Things First, by Thanissaro Bhikkhu
 * The Island, by Passano Bhikkhu & Amaro Bhikkhu
 
-### To Consider
+## To Consider
 
 * The Shape of Ancient Thought
 * King, Warrior, Magician, Lover

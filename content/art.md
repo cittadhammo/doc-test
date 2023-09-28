@@ -1,11 +1,8 @@
 ---
 title: Art 
-layout: page
 nav_order: 8
 toc: true
 ---
-
-## Art
 
 * Ba Khine (U Ba Kyi) : Art & Book "Illustrated History of Buddhsim"
 * Chakrabhand Posayakrit
