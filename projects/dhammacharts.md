@@ -1,7 +1,7 @@
 ---
 layout: default
 title: DhammaCharts
-parent: projects
+parent: Projects
 nav_order: 1
 ---
 
