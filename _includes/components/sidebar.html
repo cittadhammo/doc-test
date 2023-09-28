@@ -12,14 +12,15 @@
 
 <div class="side-bar">
   <div class="site-header" role="banner">
-    <pre style="line-height: 1;font-size: 4px;color: white; font-color: white;">
+    <a href="{{ '/' | relative_url }}" class="site-title lh-tight"></a>
+    <pre style="line-height: 1;font-size: 3px;color: white; font-color: white;">
          ______     __     ______   ______   ______     _____     __  __     ______     __    __     __    __     ______    
         /\  ___\   /\ \   /\__  _\ /\__  _\ /\  __ \   /\  __-.  /\ \_\ \   /\  __ \   /\ "-./  \   /\ "-./  \   /\  __ \   
         \ \ \____  \ \ \  \/_/\ \/ \/_/\ \/ \ \  __ \  \ \ \/\ \ \ \  __ \  \ \  __ \  \ \ \-./\ \  \ \ \-./\ \  \ \ \/\ \  
          \ \_____\  \ \_\    \ \_\    \ \_\  \ \_\ \_\  \ \____-  \ \_\ \_\  \ \_\ \_\  \ \_\ \ \_\  \ \_\ \ \_\  \ \_____\ 
           \/_____/   \/_/     \/_/     \/_/   \/_/\/_/   \/____/   \/_/\/_/   \/_/\/_/   \/_/  \/_/   \/_/  \/_/   \/_____/ 
     </pre>
-    <a href="{{ '/' | relative_url }}" class="site-title lh-tight">{% include title.html %}</a>
+    </a>
     <button id="menu-button" class="site-button btn-reset" aria-label="Toggle menu" aria-pressed="false">
       <svg viewBox="0 0 24 24" class="icon" aria-hidden="true"><use xlink:href="#svg-menu"></use></svg>
     </button>
