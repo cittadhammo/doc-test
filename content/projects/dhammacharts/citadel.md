@@ -1,6 +1,7 @@
 ---
-title: Citadel
+title: The Dhamma Citadel
 layout: page
+parent: dhammacharts.org
 ---
 
 1.  -   Donjon or Keep or Great Tower : 4NobTruth
