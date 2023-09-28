@@ -1,19 +1,7 @@
 ---
 title: To do
-layout: page
 nav_order: 4
 ---
-# To Do
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Art Craft
 

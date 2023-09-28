@@ -1,5 +1,4 @@
 ---
-layout: default
 title: enlightenment.io
 parent: Projects
 nav_order: 3

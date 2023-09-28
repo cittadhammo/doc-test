@@ -1,5 +1,4 @@
 ---
-layout: default
 title: dhammacharts.org
 parent: Projects
 nav_order: 1
