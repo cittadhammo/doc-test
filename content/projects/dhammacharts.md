@@ -6,7 +6,7 @@ nav_order: 1
 has_children: true
 ---
 
- ## dhammacharts.org
+## dhammacharts.org
   - [Dhamma Charts](http://www.dhammacharts.org) : Collection of Dhamma Charts
   - To Do : Black Background on Chart Zoom & Pan + Redish Help window
   - Add Charts : Joe Rucker new one, Jahnas, Luanguages with Pali and Thai
