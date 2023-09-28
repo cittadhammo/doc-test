@@ -1,20 +1,7 @@
 ---
 title: Code
-layout: page
 nav_order: 5
 ---
-
-# Code
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 # SFTP with VScode
 

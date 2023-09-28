@@ -1,10 +1,8 @@
 ---
-layout: home
 title: Home
 nav_order: 1
 ---
  
-# Cittadhammo.github.io
 
 This is a personal website. Please do not share publicly.
 

@@ -1,19 +1,7 @@
 ---
 title: Writings
-layout: page
 ---
 
-# Writings
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ## Boddhisatva at the Buddha's Time
 
