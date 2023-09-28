@@ -93,6 +93,8 @@ has_children: true
   - [Direct Bhikkhu Patimokkha](https://docs.google.com/document/d/1i97q5mrYU0PaO6t0WNWwRRYgit_uYrT3B3YZdsPnbSw/edit)
   - [bhikkhu-pati](https://www.dhammatalks.org/vinaya/bhikkhu-pati.html#intro)
   - [vinaya-guide-brahmali](https://suttacentral.net/vinaya-guide-brahmali?lang=en#item4)
+  - Sri lankan tradition : [Galduwa Forest Tradition](https://en.wikipedia.org/wiki/Sri_Kalyani_Yogasrama_Samstha)
+
 
 ## enlightenment.io
 - [The Model of Enlightenment](https://docs.google.com/document/u/1/d/1-id2vcxF04vzoCO1e0RcS0pihL4FuLxywz0pWGSAUA8/edit)
