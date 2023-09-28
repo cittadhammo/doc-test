@@ -3,6 +3,7 @@ layout: default
 title: dhammacharts.org
 parent: Projects
 nav_order: 1
+has_children: true
 ---
 
  ## dhammacharts.org

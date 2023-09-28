@@ -96,10 +96,6 @@ has_children: true
   - Sri lankan tradition : [Galduwa Forest Tradition](https://en.wikipedia.org/wiki/Sri_Kalyani_Yogasrama_Samstha)
 
 
-## enlightenment.io
-- [The Model of Enlightenment](https://docs.google.com/document/u/1/d/1-id2vcxF04vzoCO1e0RcS0pihL4FuLxywz0pWGSAUA8/edit)
-- [3D impressionist](http://fractal11.c1.biz/#/pr%C3%A9sentation) 3D test Presentation
-
 
 ### 3D Printing
 - [Printers](https://docs.google.com/document/d/1D5xxhqqoeXHjThn9ryQusZ4Ha8XDlrCnOrlBaLQUVmE/edit?usp=sharing)
