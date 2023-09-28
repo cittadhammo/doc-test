@@ -27,4 +27,7 @@ gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into t
 
 color_scheme: foo
 
+plugins:
+  - jekyll-toc
+
 
