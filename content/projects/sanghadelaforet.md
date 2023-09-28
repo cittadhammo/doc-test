@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DhammaCharts
+title: sanghadelaforet.org
 parent: Projects
 nav_order: 2
 ---

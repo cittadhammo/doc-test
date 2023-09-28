@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DhammaCharts
+title: dhammacharts.org
 parent: Projects
 nav_order: 1
 ---
