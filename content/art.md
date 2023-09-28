@@ -1,5 +1,5 @@
 ---
-title: Links 
+title: Art 
 layout: page
 nav_order: 8
 ---
