@@ -1,6 +1,6 @@
 ---
 title: Books 
-layout: page
+layout: post
 nav_order: 7
 toc: true
 ---
