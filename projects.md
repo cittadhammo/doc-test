@@ -5,18 +5,6 @@ nav_order: 2
 has_children: true
 ---
 
-# Projects
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
-
 ## dhammacharts.org
   - [Dhamma Charts](http://www.dhammacharts.org) : Collection of Dhamma Charts
   - To Do : Black Background on Chart Zoom & Pan + Redish Help window
