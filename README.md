@@ -10,4 +10,4 @@ This is a personal website. Please do not share publicly.
   \/_____/   \/_/     \/_/     \/_/   \/_/\/_/   \/____/   \/_/\/_/   \/_/\/_/   \/_/  \/_/   \/_/  \/_/   \/_____/ 
 </pre>
 
-Build with [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
+Build with [Just the Docs](https://just-the-docs.github.io/just-the-docs/)
