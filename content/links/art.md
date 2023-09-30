@@ -1,7 +1,6 @@
 ---
 title: Art 
 nav_order: 8
-toc: true
 parent: Links
 ---
 
