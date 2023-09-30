@@ -32,12 +32,7 @@
 
 .side-toc * {
     color: #bfa6a6;
-}
-
-.side-toc > .nav-list-item{
     list-style-type: none;
-}
-.side-toc > .nav-list-link{
     &:hover {
         background-image: none;
       }
