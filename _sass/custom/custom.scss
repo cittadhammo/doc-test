@@ -22,4 +22,7 @@
 
 .site-header {
     flex-direction: column;
+    @include mq(md) {
+        flex-direction: row;
+  }
 }
