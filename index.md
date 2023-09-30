@@ -6,6 +6,9 @@ nav_order: 1
 
 This is a personal website. Please do not share publicly.
 
+![Screenshot 2023-09-30 at 08 41 52](https://github.com/cittadhammo/cittadhammo.github.io/assets/82962905/90cf5b45-9f0d-4bda-954a-682618e4d264)
+
+<!--
 <pre style="line-height: 1; font-size: x-small;">
  ______     __     ______   ______   ______     _____     __  __     ______     __    __     __    __     ______    
 /\  ___\   /\ \   /\__  _\ /\__  _\ /\  __ \   /\  __-.  /\ \_\ \   /\  __ \   /\ "-./  \   /\ "-./  \   /\  __ \   
@@ -13,6 +16,8 @@ This is a personal website. Please do not share publicly.
  \ \_____\  \ \_\    \ \_\    \ \_\  \ \_\ \_\  \ \____-  \ \_\ \_\  \ \_\ \_\  \ \_\ \ \_\  \ \_\ \ \_\  \ \_____\ 
   \/_____/   \/_/     \/_/     \/_/   \/_/\/_/   \/____/   \/_/\/_/   \/_/\/_/   \/_/  \/_/   \/_/  \/_/   \/_____/ 
 </pre>
+-->
+
                                                                                                   
 
 ## Quick Links
