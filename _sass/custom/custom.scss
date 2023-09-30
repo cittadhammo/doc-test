@@ -36,5 +36,7 @@
 
 .side-toc > .nav-list-item{
     list-style-type: none;
-    pointer-events: none;
+    &:hover {
+        background-image: none;
+      }
 }
