@@ -1,7 +1,7 @@
 ---
 title: Books 
 nav_order: 7
-parent: links
+parent: Links
 ---
 
 * Sutta Pitaka, by Gotama Buddha
