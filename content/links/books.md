@@ -1,7 +1,6 @@
 ---
 title: Books 
 nav_order: 7
-toc: true
 parent: links
 ---
 
