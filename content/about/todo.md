@@ -170,7 +170,9 @@ parent: About
 - livres galaad
 - photos archive
 
-## The Dhamma Citadel (4NT Citadel) / The Castle of the Buddha / The Citadel of Dhamma
+## The Dhamma Citadel 
+
+other titles: (4NT Citadel) / The Castle of the Buddha / The Citadel of Dhamma
 
 - Wise reflection S.V.102-107
 
