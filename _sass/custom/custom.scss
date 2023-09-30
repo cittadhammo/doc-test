@@ -31,10 +31,10 @@
 }
 
 .side-toc *{
-    color: darkgray;
+    color: bfa6a6;
 }
 
-
-.nav-list-item{
+.side-toc > .nav-list-item{
     list-style-type: none;
+    pointer-events: none;
 }
