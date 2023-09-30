@@ -16,6 +16,11 @@ parent: About
   - Antidote pour Ajahn Sundara  
 
 ## To do
+- sujato
+  - dentiste case
+  - copyright case AA
+  - museum case
+  - show case
 - path to nibbana italian dhammatejo
 - sutta sujato
 - socks aline
