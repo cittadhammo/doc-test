@@ -2,6 +2,7 @@
 title: Art 
 nav_order: 8
 toc: true
+parent: Links
 ---
 
 * Ba Khine (U Ba Kyi) : Art & Book "Illustrated History of Buddhsim"
