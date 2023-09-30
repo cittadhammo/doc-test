@@ -5,8 +5,6 @@ toc: true
 parent: links
 ---
 
-## Nice Books
-
 * Sutta Pitaka, by Gotama Buddha
 * The Path to Nibbana, by David Jonhson
 * Dhamma Within Reach, by Nyanamoli Bhikkhu

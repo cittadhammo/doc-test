@@ -4,7 +4,7 @@ nav_order: 4
 has_children: true
 ---
 
-### Dhamma in English
+## Dhamma in English
 
 - [youtube.com](https://www.youtube.com/channel/UCCRXOn6Tsrgm9gJR4z3qLZA) : Ajahn Sona's Chanel
 - [youtube.com](https://www.youtube.com/c/AjahnPunnadhammo) : Ajahn Punnadhammo's Chanel
@@ -40,7 +40,7 @@ more :
 - [dhammawheel.com2](https://www.dhammawheel.com/viewtopic.php?f=13&t=3012)
 - [reddit.com](https://www.reddit.com/r/theravada/comments/y0h1n2/theravada_resources/)
 
-### Dhamma en français
+## Dhamma en français
 
 - [sanghadelaforet.org](http://www.sanghadelaforet.org) : Lignée d'Ajahn Chah
 - [buddha-vacana.org](http://www.buddha-vacana.org/fr/) : Traduction de sutta
@@ -50,7 +50,7 @@ more :
 - [dhammadana.org](http://www.dhammadana.org) : Bouddhsime originel
 - [buddha-sasana.org](http://buddha-sasana.org/) : Bouddhisme originel
 
-### Github & Jekyll
+## Github & Jekyll
 
 This site is build on GitHub
 
@@ -61,11 +61,11 @@ This site is build on GitHub
 - [gettalong.org](https://kramdown.gettalong.org/quickref.html) : Kramdown Markup
 - [deanattali.com](https://deanattali.com/blog/multiple-github-pages-domains/#step2): configure github page
 
-### Fractal
+## Fractal
 
 - [Clifford Attractor](https://observablehq.com/@mbostock/clifford-attractor-iii?collection=@observablehq/webgl).
 
-### Coding
+## Coding
 
 - [aravindiyer.com](https://www.aravindiyer.com/posts/equal-height-image-gallery) : Flex layouts
 - [jakearchibald.github.io](https://jakearchibald.github.io/svgomg/) : Minifing SVGs
@@ -78,7 +78,7 @@ This site is build on GitHub
 - [Jekyll Template](https://chrisbobbe.github.io/jekyll-theme-prologue)
 - [Markdown Online Editor](https://pandao.github.io/editor.md/en.html)
 
-### Doc
+## Doc
 
 - [MdBook](https://rust-lang.github.io/mdBook/index.html) : create a book doc online
 - [GRAVE](https://learn.getgrav.org/17) : Crazy cms
@@ -86,7 +86,7 @@ This site is build on GitHub
 - [http://dev.leakyabstractions.com/pretty-docs/](http://dev.leakyabstractions.com/pretty-docs/)
 - [maximevaillancourt way](https://github.com/maximevaillancourt/digital-garden-jekyll-template?ref=jekyll-themes.com)
 
-### Others
+## Others
 
 - [tipitaka.app](https://tipitaka.app/) : All Pali Tipitaka, commentary and sub-commentary
 - [tipitaka.org](https://tipitaka.org/pdf/romn/) : All Tipitaka in PDF 
@@ -96,18 +96,18 @@ This site is build on GitHub
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/) 
 - [Beautifier JS](https://beautifier.io/) : select text -> right click -> print
 
-### Chanting
+## Chanting
 
 - https://www.charlottebuddhistvihara.org/audio-talks-and-chants/
 - https://bhanterahula.blogspot.com/p/chanting.html
 - https://archive.org/download/Venerable.Kiribathgoda.Gnanananda.Thero
 
-### Poster
+## Poster
 
 - [all size](https://www.bannerworld.co.uk/product/a0-satin-poster-printing/)
 - [Fixing in UK](https://www.hfe-signs.co.uk/accessories-fixings.php)
 
-### Blog
+## Blog
 
 - [Dirty Marmotte](http://dirtymarmotte.net/)
 - [Similies Buddha](https://buddhistuniversity.net/content/monographs/similes-of-the-buddha_hecker)
@@ -121,7 +121,7 @@ This site is build on GitHub
 - https://cosmic.voyage/
 - https://tildeverse.org/members/
 
-### Font
+## Font
 
 - SC FON  TS:
   - [https://fonts.google.com/specimen/Vollkorn+SC?query=vollkorn+sc](https://fonts.google.com/specimen/Vollkorn+SC?query=vollkorn+sc)
@@ -133,7 +133,7 @@ This site is build on GitHub
 - In betwwen : 
   - [https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC](https://fonts.google.com/specimen/Almendra+SC?query=Almendra+SC)
 
-### foot
+## foot
 
 - https://anyasreviews.com/why-birkenstocks-arent-long-term-solution-foot-pain/?ssp_iabi=1683746986428
 
