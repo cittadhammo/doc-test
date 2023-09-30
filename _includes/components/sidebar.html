@@ -77,12 +77,10 @@
       {% endfor %}
     {% endif %}
     
-    {% if page.toc == true %}
     <br>
     <details open markdown="block">
       {% include components/toc.html html=content %}
     </details>
-    {% endif %}
   </nav>
 
   {% capture nav_footer_custom %}
