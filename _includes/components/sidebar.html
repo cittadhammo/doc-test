@@ -78,9 +78,7 @@
     {% endif %}
     
     <br>
-    <details open markdown="block">
-      {% include components/toc.html html=content %}
-    </details>
+    {% include components/toc.html html=content %}
   </nav>
 
   {% capture nav_footer_custom %}
