@@ -78,7 +78,9 @@
     {% endif %}
     
     <br>
-    {% include components/toc.html html=content %}
+    <div class="nav-list-item">
+      {% include components/toc.html html=content %}
+    </div>
   </nav>
 
   {% capture nav_footer_custom %}
