@@ -78,7 +78,7 @@
     {% endif %}
     
     <br>
-      {% include components/toc.html html=content class="nav-list"%}
+      {% include components/toc.html html=content class="nav-list side-toc"%}
   </nav>
 
   {% capture nav_footer_custom %}
@@ -87,7 +87,7 @@
   {% if nav_footer_custom != "" %}
     {{ nav_footer_custom }}
   {% else %}
-    <footer id="side-toc">
+    <footer class="site-footer">
       This site uses <a href="https://github.com/just-the-docs/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.
     </footer>
   {% endif %}
