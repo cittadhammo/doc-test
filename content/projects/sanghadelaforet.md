@@ -1,5 +1,5 @@
 ---
-title: sanghadelaforet.org
+title: Sangha de la forêt
 parent: Projects
 nav_order: 2
 ---
