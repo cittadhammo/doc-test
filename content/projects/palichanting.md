@@ -1,8 +1,7 @@
 ---
-title: palichanting.org
+title: Pali Chanting
 parent: Projects
 ---
-
 
   - [Simple Pali Chanting Guide Website](https://palichanting.github.io/)
   - Algorithm for scaning Pali
