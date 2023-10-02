@@ -1,9 +1,10 @@
 ---
-title: practical-vinaya.org
+title: Practical Vinaya
 parent: Projets
 ---
 
 ## vinaya.io
+  - practical-vinaya.org
   - Monastic Constitution
   - [Direct Bhikkhu Patimokkha](https://docs.google.com/document/d/1i97q5mrYU0PaO6t0WNWwRRYgit_uYrT3B3YZdsPnbSw/edit)
   - [bhikkhu-pati](https://www.dhammatalks.org/vinaya/bhikkhu-pati.html#intro)
