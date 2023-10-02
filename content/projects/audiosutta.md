@@ -1,5 +1,5 @@
 ---
-title: audiosutta.org
+title: Audio Sutta
 parent: Projets
 ---
 
