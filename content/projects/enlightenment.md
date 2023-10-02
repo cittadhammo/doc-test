@@ -1,5 +1,5 @@
 ---
-title: enlightenment.io
+title: Model of Enlightenment
 parent: Projects
 nav_order: 3
 ---
