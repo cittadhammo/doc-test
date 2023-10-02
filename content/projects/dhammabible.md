@@ -1,5 +1,5 @@
 ---
-title: dhammabible.org
+title: Dhamma Bible
 parent: Projects
 ---
 
