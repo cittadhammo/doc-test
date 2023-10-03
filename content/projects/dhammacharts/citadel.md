@@ -1,6 +1,6 @@
 ---
 title: The Dhamma Citadel
-parent: dhammacharts.org
+parent: Dhamma Charts
 grand_parent: Projects
 ---
 
