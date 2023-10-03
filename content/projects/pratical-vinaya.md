@@ -1,6 +1,6 @@
 ---
 title: Practical Vinaya
-parent: Projets
+parent: Projects
 ---
 
 ## vinaya.io
@@ -10,6 +10,7 @@ parent: Projets
   - [bhikkhu-pati](https://www.dhammatalks.org/vinaya/bhikkhu-pati.html#intro)
   - [vinaya-guide-brahmali](https://suttacentral.net/vinaya-guide-brahmali?lang=en#item4)
   - Sri lankan tradition : [Galduwa Forest Tradition](https://en.wikipedia.org/wiki/Sri_Kalyani_Yogasrama_Samstha)
+  - https://sites.google.com/view/avantivada/home
 
 ## Practical or Original Vinaya
 
