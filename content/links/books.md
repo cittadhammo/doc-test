@@ -2,6 +2,7 @@
 title: Books 
 nav_order: 7
 parent: Links
+has_grand_children: true
 ---
 
 * Sutta Pitaka, by Gotama Buddha
