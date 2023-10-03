@@ -17,11 +17,19 @@ Cittadhammo: how do I recognize a spool of fcaw
 
 Claude: Here are some ways to recognize a spool of flux-cored wire for FCAW welding:
 
-Check the labeling/packaging - It should be clearly labeled as "flux-cored" or "FCAW" wire. The AWS wire classification will be something like E71T-1.
-Look for the seam lines - FCAW wire will have two parallel seam lines running along the length of the wire. This is where it was formed around the flux core. Solid MIG wire has no seam.
-Color - FCAW wire is often more grayish/tan in color versus the shiny copper color of solid MIG wire. The flux core gives it a duller appearance.
-Weight - FCAW wire feels heavier than solid MIG wire of the same diameter due to the dense flux core.
-Diameter - FCAW wires are often larger diameters since the flux core displaces some of the metal. E.g. 0.045" flux-cored wire contains less actual weld metal than 0.045" solid MIG wire.
-Examine ends - You can sometimes see the flux core by examining the wire end, especially if you knock the wire on something to expose the center. The flux will be a grayish powder.
-Run a bead - If you're unsure, try welding a short bead. FCAW will have more spatter and slag compared to solid MIG wire.
+Check the labeling/packaging 
+- It should be clearly labeled as "flux-cored" or "FCAW" wire. The AWS wire classification will be something like E71T-1.
+Look for the seam lines
+- FCAW wire will have two parallel seam lines running along the length of the wire. This is where it was formed around the flux core. Solid MIG wire has no seam.
+Color
+- FCAW wire is often more grayish/tan in color versus the shiny copper color of solid MIG wire. The flux core gives it a duller appearance.
+Weight
+- FCAW wire feels heavier than solid MIG wire of the same diameter due to the dense flux core.
+Diameter
+- FCAW wires are often larger diameters since the flux core displaces some of the metal. E.g. 0.045" flux-cored wire contains less actual weld metal than 0.045" solid MIG wire.
+Examine ends
+- You can sometimes see the flux core by examining the wire end, especially if you knock the wire on something to expose the center. The flux will be a grayish powder.
+Run a bead
+- If you're unsure, try welding a short bead. FCAW will have more spatter and slag compared to solid MIG wire.
+
 So in summary, look for the labeling, seam lines, color, weight, size, and slag/spatter characteristics to identify FCAW flux-cored welding wire. Knowing the differences allows you to select the right wire for your welder.
