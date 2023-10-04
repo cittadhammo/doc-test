@@ -9,4 +9,5 @@ gem "just-the-docs", "0.6.2" # pinned to the current release
 gem "jekyll-default-layout"
 
 gem 'jekyll-toc'
+gem 'jekyll-target-blank'
 

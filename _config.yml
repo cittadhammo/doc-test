@@ -27,5 +27,6 @@ color_scheme: foo
 plugins:
   - jekyll-toc
   - jekyll-default-layout
+  - jekyll-target-blank
 
 
