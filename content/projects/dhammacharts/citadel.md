@@ -44,9 +44,15 @@ grand_parent: Projects
     -   SE Corner tower : 4RExe
 
 
-8.  -   W Flanking Tower : 40Med/Cont, 10Kas, 10Ugly, 10cont, 4DivAbo, 4Immat, 1PercFood, 4Ele [5Rec, 10Per, 10Cont/Med, 4Pos, 9Cemm, 3Stand][contemplations: 10 kasinas, asubha 9 decompositions, 10 recollections, 4 brahvih, food, (a. i.41-42), dathu vavathana, 4 formless states]
-    -   S Flanking Tower : 62WViews [10Unans, 20SelfViews, 4Perv, Ayoniso?]
-    -   E Flanking Tower : 37WinAwa (5Power, 5, 4BofS, 4, 4, 7, 8) [38Bless / Way of practice: 6Grad, 7Purities, 4PracTrain, 7EssQual][gradual training + gradual teaching]
+8.  -   W Flanking Tower : 40Med/Cont, 10Kas, 10Ugly, 10cont, 4DivAbo, 4Immat, 1PercFood, 4Ele
+        -   5Rec, 10Per, 10Cont/Med, 4Pos, 9Cemm, 3Stand
+        -   contemplations: 10 kasinas, asubha 9 decompositions, 10 recollections, 4 brahvih, food, (a. i.41-42), dathu vavathana, 4 formless states
+    -   S Flanking Tower : 62WViews
+        -   10Unans, 20SelfViews, 4Perv, Ayoniso?
+    -   E Flanking Tower : 37WinAwa (5Power, 5, 4BofS, 4, 4, 7, 8)
+        -   38Bless
+        -   Way of practice: 6Grad, 7Purities, 4PracTrain, 7EssQual
+        -   gradual training + gradual teaching
     -   N Flanking Tower : 3Gem
 
 
@@ -55,7 +61,7 @@ grand_parent: Projects
     -   W-SW Watch Tower : 4Nut
     -   S-SW Watch Tower : 3Con
     -   S-SE Watch Tower : 3Van
-    -   E-SE Watch Tower : 5Fac [4Post]
+    -   E-SE Watch Tower : 5Fac [4Post/3Pil]
     -   E-NE Watch Tower : 4BasePow
     -   N-NE Watch Tower : 4FacSE
 
