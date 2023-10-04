@@ -33,3 +33,7 @@ has_children: true
 ## AI Generated Art
   - [discourse.suttacentral.net](https://discourse.suttacentral.net/t/dhamma-art-by-ai-wow/26541/28): A tread on the topic
 
+## New Idea
+
+- Evolution of Buddhism like https://upload.wikimedia.org/wikipedia/commons/1/1e/A_New_Chart_of_History_color.jpg based on Buddhist History Book
+
