@@ -39,6 +39,7 @@ has_children: true
 
 ## New Links
 
+- <https://infovis-wiki.net/wiki/Information_and_Graphic_Design_Links>
 - <https://observablehq.com/@bstaats/graph-visualization-introduction>
 - [visualcomplexity.com](http://www.visualcomplexity.com/vc/links.cfm)
 - [historyshots.com](https://historyshots.com/) 
