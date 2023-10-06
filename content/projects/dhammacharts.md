@@ -41,6 +41,7 @@ has_children: true
 
 - <https://infovis-wiki.net/wiki/Information_and_Graphic_Design_Links>
 - <https://observablehq.com/@bstaats/graph-visualization-introduction>
+- <https://datavizcatalogue.com/blog/>
 - [visualcomplexity.com](http://www.visualcomplexity.com/vc/links.cfm)
 - [historyshots.com](https://historyshots.com/) 
 - [turbulence.org](https://www.turbulence.org/Works/song/gallery/gallery.html)
