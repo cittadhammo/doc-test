@@ -16,7 +16,7 @@ grand_parent: Projects
 
 3.  -   NW Lower Bailey : 5N&F, 4Ele, 3Fel, 3Contact, 3Voli, 6Consc
     -   SW Lower Bailey : 3Effl, 4Ign, 3Bec, 5CordsSens, [4Taints, 4Flood, 4Views], 4Cling
-    -   NE Lower Bailey : 6HighKn, 10Fet
+    -   NE Lower Bailey : 6HighKn, 3Insights , 10Fet
     -   SE Lower Bailey : 3Train, 3RView, 3RInt, 4RSpe, 3RActi, 5RLively, 4REff, 4FunMindf, 4Jh
 
 
@@ -36,8 +36,8 @@ grand_parent: Projects
 
 7.  -   NW Battlement : 3Suff, 8WorWind
     -   SW Battlement : 10FalseDh, 10CourseWrong
-    -   NE Battlement : 9Sama, 2Nib
-    -   SE Battlement : 10TrueDh, 10CourseGood (5Prec)
+    -   NE Battlement : 9Attainments, 2Nib
+    -   SE Battlement : 10TrueDh, 10CourseGood (5Prec), 3Doors
     -   NW Corner Tower : 31Planes, 3Bec, 8Jh, subCat
     -   SW Corner tower : 4Unspec(think)
     -   NE Corner Tower : 16StepsAna
@@ -45,16 +45,13 @@ grand_parent: Projects
 
 
 8.  -   W Flanking Tower : 40Med/Cont, 10Kas, 10Ugly, 10cont, 4DivAbo, 4Immat, 1PercFood, 4Ele
-        -   5Rec, 10Per, 10Cont/Med, 4Pos, 9Cemm, 3Stand
-        -   contemplations: 10 kasinas, asubha 9 decompositions, 10 recollections, 4 brahvih, food, (a. i.41-42), dathu vavathana, 4 formless states
+        -   5Rec, 10Per, 10Cont/Med, 4Pos, 9Cemm, 3Stand, (5Laws)
     -   S Flanking Tower : 62WViews
         -   10Unans, 20SelfViews, 4Perv, Ayoniso?
     -   E Flanking Tower : 37WinAwa (5Power, 5, 4BofS, 4, 4, 7, 8)
         -   38Bless
-        -   Way of practice: 6Grad, 7Purities, 4PracTrain, 7EssQual
-        -   gradual training + gradual teaching
+        -   Way of practice: 6Grad, 7Purities, 4PracTrain, 7EssQual, 3Pil
     -   N Flanking Tower : 3Gem
-
 
 9.  -   N-NW Watch Tower : 4DivAbi
     -   W-NW Watch Tower : 4HeavMess
