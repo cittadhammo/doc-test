@@ -73,7 +73,7 @@ OUT:
 
 Sutta:
 
-    -   AN 6:63, 8:30; BD 273, DN32-34
-    -   Buddha-Vaccana Lists
-    -   other meditation signless?
+-   AN 6:63, 8:30; BD 273, DN32-34
+-   Buddha-Vaccana Lists
+-   other meditation signless?
 
