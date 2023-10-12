@@ -46,8 +46,8 @@ grand_parent: Projects
 
 8.  -   W Flanking Tower : 40Med/Cont, 10Kas, 10Ugly, 10cont, 4DivAbo, 4Immat, 1PercFood, 4Ele
         -   5Rec, 10Per, 10Cont/Med, 4Pos, 9Cemm, 3Stand, (5Laws)
-    -   S Flanking Tower : 62WViews
-        -   10Unans, 20SelfViews, 4Perv, Ayoniso?
+    -   S Flanking Tower : 62WViews (5Past + 5Future), 2Extremes
+        -   10Unans, 20SelfViews = 4 * 5A, 4Perv + 3Mode, Ayoniso?
     -   E Flanking Tower : 37WinAwa (5Power, 5, 4BofS, 4, 4, 7, 8)
         -   38Bless
         -   Way of practice: 6Grad, 7Purities, 4PracTrain, 7EssQual, 3Pil
@@ -72,6 +72,7 @@ OUT:
 -   4Aqui?, 3Stages, 5Laws, 4Perv, 7Lat, 2Gua, 3Res, 3Pil, 6Grad, 4PracTrain, 7EssQual, 3Stand, 7Esc, 4Kam, 5SupRView, 4Birth, 4Prog, 5RSpeach, 100NamesBud, 9Check, 7NobleDis, 4Ques, 5HainCrime, 8Lib = 9MedAtain, 10Perf, 16Impur, 10Defil, 9Abodes = 7Station + 2Sphere, 11BenefMetta, 10BenefBodyCont, 5Abandon
 
 Sutta:
+
     -   AN 6:63, 8:30; BD 273, DN32-34
     -   Buddha-Vaccana Lists
     -   other meditation signless?
