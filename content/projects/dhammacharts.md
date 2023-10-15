@@ -25,6 +25,7 @@ has_children: true
 
 ## Website itself
   - Layout we want : [tympanus.net](https://tympanus.net/Development/GridLoadingEffects/index2.html)
+  - simple masonry no library : [medium.com](https://medium.com/@andybarefoot/a-masonry-style-layout-using-css-grid-8c663d355ebb) and [codepen.io](https://codepen.io/andybarefoot/pen/QMeZda)
  
 ## Art
   - Jhana Illustration for Jhana book
