@@ -22,6 +22,9 @@ has_children: true
   - 31 Planes of Existance
     - [Spreadsheet](https://docs.google.com/spreadsheets/d/1Ol_zqnCYlKcm5olJX1-MFQKBx9NtAj-9Yg2i1uLMU9g/edit#gid=0)
     - [Chart](https://observablehq.com/d/7d76764d2f83a602)
+
+## Website itself
+  - Layout we want : [tympanus.net](https://tympanus.net/Development/GridLoadingEffects/index2.html)
  
 ## Art
   - Jhana Illustration for Jhana book
