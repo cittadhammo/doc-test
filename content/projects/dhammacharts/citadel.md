@@ -4,6 +4,8 @@ parent: Dhamma Charts
 grand_parent: Projects
 ---
 
+Link for [spreadsheet](https://docs.google.com/spreadsheets/d/14jOoMTnVV0dQc4NZ8keP3pjiLVOrS4IIDPc_xISSxlA/edit#gid=0)
+
 1.  -   Donjon or Keep or Great Tower : 4NobTruth
     -   Donjon Chemise : 4Duties
 
