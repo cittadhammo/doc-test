@@ -36,6 +36,7 @@ has_children: true
 
 ## AI Generated Art
   - [discourse.suttacentral.net](https://discourse.suttacentral.net/t/dhamma-art-by-ai-wow/26541/28): A tread on the topic
+  - [mokole.com](https://mokole.com/palette.html) : Color Palette Generator
 
 ## New Idea
 
