@@ -4,6 +4,10 @@ nav_order: 99
 has_children: true
 ---
 
+![saturn-seen-from-its-moon-mimas-Painting-by-chesley-Bonestell-published-in-Life-Magazine](https://github.com/cittadhammo/cittadhammo.github.io/assets/82962905/cbcedb78-449a-4ad1-a4b8-bf7da99886bb)
+
+   Saturn seen from its moon mimas. Painting by chesley Bonestell published in Life Magazine may 29, 1944, p. 80. reproduced courtesy of Bonestell llc.  
+
 Cittadhammo Bhikkhu
 
 Buddhist monk in the UK
