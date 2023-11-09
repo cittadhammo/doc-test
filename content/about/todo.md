@@ -3,6 +3,16 @@ title: To do
 parent: About
 ---
 
+- get cable for kobo keybord
+- sync folder quartz vault kobo
+- quartz Dhamma Bible
+  - pali dict pali entries
+  - layout just the doc
+- personal wesbite
+  - layout the hitchen
+- quartz theme
+- quartz graphe enhance
+
 ## Art Craft
 
 - Picture Hanger for Sutta Pitaka Chart
@@ -16,6 +26,11 @@ parent: About
   - Antidote pour Ajahn Sundara  
 
 ## To do
+- RPi e-ink computer Panasonic Toughbook
+- link to low tech website article
+- normal list for toc on personal website
+  - works in mobile format?
+- github how to set up a list of repo like D3 or Suttacentral 
 - sujato
   - dentiste case
   - copyright case AA
