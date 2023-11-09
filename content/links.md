@@ -64,6 +64,7 @@ This site is build on GitHub
 ## Fractal
 
 - [Clifford Attractor](https://observablehq.com/@mbostock/clifford-attractor-iii?collection=@observablehq/webgl).
+- <https://observablehq.com/collection/@observablehq/error-page-imagery>
 
 ## Coding
 
