@@ -8,4 +8,4 @@ parent: About
 - <https://wiki.mobileread.com/wiki/Kobo_eReader_hacks>
 - <http://wikisec.free.fr/mobile/kobo.html> run bash on kobo
 - <https://anarc.at/hardware/tablet/kobo-clara-hd/> ssh
-  
+- <https://yingtongli.me/blog/2018/07/30/kobo-ssh.html> sh shell 
