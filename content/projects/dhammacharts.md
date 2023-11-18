@@ -51,3 +51,5 @@ has_children: true
 - [historyshots.com](https://historyshots.com/) 
 - [turbulence.org](https://www.turbulence.org/Works/song/gallery/gallery.html)
 - <https://www.c82.net/>
+- <https://informationisbeautiful.net/>
+- <https://www.census.gov/dataviz/>
