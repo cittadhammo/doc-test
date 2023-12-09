@@ -53,3 +53,5 @@ has_children: true
 - <https://www.c82.net/>
 - <https://informationisbeautiful.net/>
 - <https://www.census.gov/dataviz/>
+
+- <https://animotion.dev/> create CSS animations visually
