@@ -3,40 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Secret Page</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"></script>
+    <title>AES Decryption Page</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
     <style>
-        body { font-family: Arial, sans-serif; }
-        #content { display: none; }
-        #error { color: red; display: none; }
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        input, button {
+            margin: 10px 0;
+            padding: 5px;
+        }
     </style>
 </head>
 <body>
-    <h1>Enter Password to View Content</h1>
-    <input type="password" id="password" placeholder="Enter Password">
-    <button onclick="decryptContent()">Decrypt</button>
-    <p id="error">Incorrect password. Please try again.</p>
-    <div id="content"></div>
+    <h1>AES Decryption</h1>
+    <p>Encrypted message:</p>
+    <pre id="encryptedMessage"></pre>
+    <input type="password" id="password" placeholder="Enter decryption password">
+    <button onclick="decrypt()">Decrypt</button>
+    <p>Decrypted message:</p>
+    <pre id="decryptedMessage"></pre>
 
     <script>
-        // Encrypted content (use your encrypted content here)
-        var encryptedContent = "w+Xk1Cf3O8esvqkhVCHNwQ==";
+        // The encrypted message (you can replace this with your own encrypted message)
+        const encryptedMessage = "w+Xk1Cf3O8esvqkhVCHNwQ==";
+        document.getElementById("encryptedMessage").textContent = encryptedMessage;
 
-        function decryptContent() {
-            var password = document.getElementById('password').value;
+        function decrypt() {
+            const password = document.getElementById("password").value;
             try {
-                var decrypted = CryptoJS.AES.decrypt(encryptedContent, password).toString(CryptoJS.enc.Utf8);
-                                console.log(decrypted)
-
+                const decrypted = CryptoJS.AES.decrypt(encryptedMessage, password).toString(CryptoJS.enc.Utf8);
                 if (decrypted) {
-                    document.getElementById('content').innerText = decrypted;
-                    document.getElementById('content').style.display = 'block';
-                    document.getElementById('error').style.display = 'none';
+                    document.getElementById("decryptedMessage").textContent = decrypted;
                 } else {
-                    document.getElementById('error').style.display = 'block';
+                    document.getElementById("decryptedMessage").textContent = "Decryption failed. Please check your password.";
                 }
-            } catch (e) {
-                document.getElementById('error').style.display = 'block';
+            } catch (error) {
+                document.getElementById("decryptedMessage").textContent = "Decryption failed. Please check your password.";
             }
         }
     </script>
