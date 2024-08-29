@@ -3,96 +3,111 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Encrypted Markdown Viewer</title>
+    <title>Literary Decryption Page (AES-128 CBC)</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.2/marked.min.js"></script>
     <style>
         body {
             font-family: 'Georgia', serif;
-            line-height: 1.6;
-            color: #333;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #f4f1ea;
+            background-color: #f5f5f5;
+            color: #333;
         }
-        h1, h2, h3 {
-            font-family: 'Palatino', 'Palatino Linotype', serif;
-        }
-        #decryption-form {
-            margin-bottom: 20px;
-        }
-        input, select {
-            padding: 5px;
-            font-size: 16px;
-            margin-right: 10px;
-        }
-        button {
-            padding: 5px 10px;
-            font-size: 16px;
-            background-color: #4a4a4a;
-            color: white;
-            border: none;
-            cursor: pointer;
-        }
-        button:hover {
-            background-color: #333;
-        }
-        #content {
-            background-color: white;
-            padding: 20px;
+        .container {
+            background-color: #fff;
+            padding: 30px;
             border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 10px;
+        }
+        #decryptedContent {
+            margin-top: 20px;
+            line-height: 1.6;
+        }
+        #decryptedContent h1, #decryptedContent h2, #decryptedContent h3 {
+            color: #2c3e50;
+        }
+        #decryptedContent blockquote {
+            border-left: 3px solid #2c3e50;
+            padding-left: 10px;
+            margin-left: 0;
+            color: #555;
+        }
+        #message {
+            color: #e74c3c;
+            font-weight: bold;
         }
     </style>
 </head>
 <body>
-    <h1>Encrypted Markdown Viewer</h1>
-    <div id="decryption-form">
-        <input type="password" id="password" placeholder="Enter password">
-        <select id="key-size">
-            <option value="128">128-bit</option>
-            <option value="192">192-bit</option>
-            <option value="256">256-bit</option>
-        </select>
-        <button id="decrypt-button">Decrypt</button>
+    <div class="container">
+        <h1>Literary Decryption (AES-128 CBC)</h1>
+        <div id="message"></div>
+        <div id="decryptedContent"></div>
     </div>
-    <div id="content"></div>
 
     <script>
-        // Replace this with your actual encrypted text
-        const encryptedText = "VKzRTXzIKbjzevDeXH8ZBKUC+8HumHcqGWmBt1Fxrwk="; // Your encrypted text goes here
+        // The encrypted message (replace with your own)
+        const encryptedMessage = "DENBRy/NoNpeEr96UzrhOw=="; // Your encrypted text goes here
 
-        document.getElementById('decrypt-button').addEventListener('click', function() {
-            const password = document.getElementById('password').value;
-            const keySize = parseInt(document.getElementById('key-size').value);
-            
+        function getPasswordFromURL() {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get('password');
+        }
+
+        function decrypt(password) {
             try {
-                let decrypted;
-                // Try different decryption methods
-                try {
-                    // Method 1: Direct decryption (for some online tools)
-                    decrypted = CryptoJS.AES.decrypt(encryptedText, password).toString(CryptoJS.enc.Utf8);
-                } catch (e) {
-                    // Method 2: Using key derivation (for other tools)
-                    const salt = CryptoJS.enc.Hex.parse(encryptedText.substr(0, 32));
-                    const ciphertext = encryptedText.substring(32);
-                    const key = CryptoJS.PBKDF2(password, salt, { keySize: keySize/32, iterations: 1000 });
-                    const decryptedWA = CryptoJS.AES.decrypt(ciphertext, key, { iv: salt });
-                    decrypted = decryptedWA.toString(CryptoJS.enc.Utf8);
-                }
+                // Extract salt and IV from the encrypted message
+                const encryptedBytes = CryptoJS.enc.Base64.parse(encryptedMessage);
+                const salt = CryptoJS.enc.Hex.parse(encryptedBytes.toString().slice(0, 32));
+                const iv = CryptoJS.enc.Hex.parse(encryptedBytes.toString().slice(32, 64));
+                const encrypted = encryptedBytes.toString().slice(64);
 
-                if (decrypted) {
-                    const renderedMarkdown = marked.parse(decrypted);
-                    document.getElementById('content').innerHTML = renderedMarkdown;
+                // Generate key using PBKDF2
+                const key = CryptoJS.PBKDF2(password, salt, {
+                    keySize: 128 / 32,
+                    iterations: 1000
+                });
+
+                // Decrypt
+                const decrypted = CryptoJS.AES.decrypt(encrypted, key, {
+                    iv: iv,
+                    mode: CryptoJS.mode.CBC,
+                    padding: CryptoJS.pad.Pkcs7
+                });
+
+                const decryptedText = decrypted.toString(CryptoJS.enc.Utf8);
+
+                console.log(encrypted);
+
+                if (decryptedText) {
+                    const renderedMarkdown = marked.parse(decryptedText);
+                    document.getElementById("decryptedContent").innerHTML = renderedMarkdown;
+                    document.getElementById("message").textContent = "Decryption successful!";
                 } else {
-                    throw new Error('Decryption failed');
+                    throw new Error("Decryption failed");
                 }
             } catch (error) {
-                alert('Incorrect password or decryption error. Please check your password and encryption settings.');
+                document.getElementById("message").textContent = "Decryption failed. Please check your password.";
                 console.error(error);
             }
-        });
+        }
+
+        // Attempt decryption when the page loads
+        window.onload = function() {
+            const password = getPasswordFromURL();
+            if (password) {
+                decrypt(password);
+            } else {
+                document.getElementById("message").textContent = "No password provided in URL. Use ?password=xxx in the URL.";
+            }
+        };
     </script>
 </body>
 </html>
