@@ -3,48 +3,96 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AES Decryption Page</title>
+    <title>Encrypted Markdown Viewer</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.2/marked.min.js"></script>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            max-width: 600px;
+            font-family: 'Georgia', serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
             margin: 0 auto;
             padding: 20px;
+            background-color: #f4f1ea;
         }
-        input, button {
-            margin: 10px 0;
+        h1, h2, h3 {
+            font-family: 'Palatino', 'Palatino Linotype', serif;
+        }
+        #decryption-form {
+            margin-bottom: 20px;
+        }
+        input, select {
             padding: 5px;
+            font-size: 16px;
+            margin-right: 10px;
+        }
+        button {
+            padding: 5px 10px;
+            font-size: 16px;
+            background-color: #4a4a4a;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #333;
+        }
+        #content {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
     </style>
 </head>
 <body>
-    <h1>AES Decryption</h1>
-    <p>Encrypted message:</p>
-    <pre id="encryptedMessage"></pre>
-    <input type="password" id="password" placeholder="Enter decryption password">
-    <button onclick="decrypt()">Decrypt</button>
-    <p>Decrypted message:</p>
-    <pre id="decryptedMessage"></pre>
+    <h1>Encrypted Markdown Viewer</h1>
+    <div id="decryption-form">
+        <input type="password" id="password" placeholder="Enter password">
+        <select id="key-size">
+            <option value="128">128-bit</option>
+            <option value="192">192-bit</option>
+            <option value="256">256-bit</option>
+        </select>
+        <button id="decrypt-button">Decrypt</button>
+    </div>
+    <div id="content"></div>
 
     <script>
-        // The encrypted message (you can replace this with your own encrypted message)
-        const encryptedMessage = "w+Xk1Cf3O8esvqkhVCHNwQ==";
-        document.getElementById("encryptedMessage").textContent = encryptedMessage;
+        // Replace this with your actual encrypted text
+        const encryptedText = "VKzRTXzIKbjzevDeXH8ZBKUC+8HumHcqGWmBt1Fxrwk="; // Your encrypted text goes here
 
-        function decrypt() {
-            const password = document.getElementById("password").value;
+        document.getElementById('decrypt-button').addEventListener('click', function() {
+            const password = document.getElementById('password').value;
+            const keySize = parseInt(document.getElementById('key-size').value);
+            
             try {
-                const decrypted = CryptoJS.AES.decrypt(encryptedMessage, password).toString(CryptoJS.enc.Utf8);
+                let decrypted;
+                // Try different decryption methods
+                try {
+                    // Method 1: Direct decryption (for some online tools)
+                    decrypted = CryptoJS.AES.decrypt(encryptedText, password).toString(CryptoJS.enc.Utf8);
+                } catch (e) {
+                    // Method 2: Using key derivation (for other tools)
+                    const salt = CryptoJS.enc.Hex.parse(encryptedText.substr(0, 32));
+                    const ciphertext = encryptedText.substring(32);
+                    const key = CryptoJS.PBKDF2(password, salt, { keySize: keySize/32, iterations: 1000 });
+                    const decryptedWA = CryptoJS.AES.decrypt(ciphertext, key, { iv: salt });
+                    decrypted = decryptedWA.toString(CryptoJS.enc.Utf8);
+                }
+
                 if (decrypted) {
-                    document.getElementById("decryptedMessage").textContent = decrypted;
+                    const renderedMarkdown = marked.parse(decrypted);
+                    document.getElementById('content').innerHTML = renderedMarkdown;
                 } else {
-                    document.getElementById("decryptedMessage").textContent = "Decryption failed. Please check your password.";
+                    throw new Error('Decryption failed');
                 }
             } catch (error) {
-                document.getElementById("decryptedMessage").textContent = "Decryption failed. Please check your password.";
+                alert('Incorrect password or decryption error. Please check your password and encryption settings.');
+                console.error(error);
             }
-        }
+        });
     </script>
 </body>
 </html>
