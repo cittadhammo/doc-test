@@ -25,6 +25,7 @@
         function decryptContent() {
             var password = document.getElementById('password').value;
             try {
+                console.log(decrypted)
                 var decrypted = CryptoJS.AES.decrypt(encryptedContent, password).toString(CryptoJS.enc.Utf8);
                 if (decrypted) {
                     document.getElementById('content').innerText = decrypted;
