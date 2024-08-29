@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secret Page</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; }
+        #content { display: none; }
+        #error { color: red; display: none; }
+    </style>
+</head>
+<body>
+    <h1>Enter Password to View Content</h1>
+    <input type="password" id="password" placeholder="Enter Password">
+    <button onclick="decryptContent()">Decrypt</button>
+    <p id="error">Incorrect password. Please try again.</p>
+    <div id="content"></div>
+
+    <script>
+        // Encrypted content (use your encrypted content here)
+        var encryptedContent = "U2FsdGVkX1+KS6f2qLZxJQU6AfxV/M9M1s74s1Uyom8=";
+
+        function decryptContent() {
+            var password = document.getElementById('password').value;
+            try {
+                var decrypted = CryptoJS.AES.decrypt(encryptedContent, password).toString(CryptoJS.enc.Utf8);
+                if (decrypted) {
+                    document.getElementById('content').innerText = decrypted;
+                    document.getElementById('content').style.display = 'block';
+                    document.getElementById('error').style.display = 'none';
+                } else {
+                    document.getElementById('error').style.display = 'block';
+                }
+            } catch (e) {
+                document.getElementById('error').style.display = 'block';
+            }
+        }
+    </script>
+</body>
+</html>
