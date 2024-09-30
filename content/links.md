@@ -100,6 +100,7 @@ This site is build on GitHub
 - <https://online.rapidresizer.com/tracer.php>
 - <https://cloudconvert.com/svg-to-png>
 - <https://tools.simonwillison.net/ocr>
+- <https://www3.lunapic.com/> : image editor
 
 ## Chanting
 
