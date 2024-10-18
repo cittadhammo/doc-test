@@ -10,6 +10,17 @@ nav_order: 3
 
 ## model of enligthement
 
-- stupa
+- stupa see dhammacharts.org
+
+## Fractal Sutpa
+
+- <https://sciencevsmagic.net/castles/>
+- for example [custom](https://sciencevsmagic.net/castles/#7u7uqqqqLS0t3CIICIMCINCIJCMICMMCMNCMJCQICQMCQNCQJAQICQECQAAQJEELEECEEKEETCETAETCEXCEWCESEESAESCUMAUICUICUACUJAUJCUECUNCYJCYMCYNCYICcICcJCcACcMCcNAcJCcEAcI)
+- <https://github.com/HackerPoet/PySpace> : script
+- <https://www.youtube.com/watch?v=utIgXiywxq4> : blender node
+- <https://www.youtube.com/watch?v=xuLIJ-FNkSI>
+- <https://www.youtube.com/watch?v=eIZ97sP6xAg&t=30s>
+- <https://www.youtube.com/watch?v=ZbLogSN8Euc>
+
 
 
