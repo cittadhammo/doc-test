@@ -1,4 +1,4 @@
----
+ ---
 title: Model of Enlightenment
 parent: Projects
 nav_order: 3
@@ -46,3 +46,4 @@ nav_order: 3
 
 - <https://mattwidmann.net/notes/pen-plotters/>
 - <https://www.instructables.com/BLACKBOARD-V-PLOTTER/>
+- <https://davidbliss.com/2021/09/13/penelope/>
