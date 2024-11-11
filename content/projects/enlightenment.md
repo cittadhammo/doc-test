@@ -29,3 +29,15 @@ nav_order: 3
 - <https://sciencevsmagic.net/castles/#7u7uqqqqLS0t3CIMCIICIJCINCMNCMJCMICMMCQNCQJCQICQMCUICUMAUICUNCUECUJCUAAUJAUACYJCYICYMCcJCYNCcNCgJCgNAgJCcMCgMCgECcICgICgAAgAAgIEEPEEGEEOCEWEEWCESAESEESEECEEKEELGEKGESGELGECGAIGAJGAAGEIGEAGEJEEIEEJEEAIESIEKIELIECEEMEEEEENGENGEEGEMGEPGEGGEOGEWIEPIEGIEOIEWGANGAEGAMCkMCkNAkJCkJCkACkIAkICkEAkAIEeGEeEEeCEeAEaCEaEEaGEaIEaCAcAAYCAYCEUAEQCEQCEcAEYCEYEEmCEmAEiCEiEEiGEmGEi>
 
 
+## Pen Plotter
+
+HighSpeed
+- <https://github.com/IVProjects/Engineering_Projects/tree/main/ProjectFiles/High-Speed%20Pen%20Plotter>
+- <https://www.youtube.com/watch?v=wX90X4rVUr8>
+
+
+PolarGraph
+- <https://www.instructables.com/Polargraph-Wall-Draw-Bot-2023/>
+- <https://github.com/john4242/grbl-polargraph>
+
+- <https://mcr.dozuki.com/c/Makelangelo_3_and_5_Guide>
