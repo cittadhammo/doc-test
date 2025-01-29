@@ -21,6 +21,7 @@ Le deuxième scénario intéressant serait d'avoir une distribution sphérique n
 ## Simulation normal
 
 - <https://github.com/angeluriot/Galaxy_simulation>
+  - <http://youtube.com/watch?v=dFqjqRUWCus>
 - <https://www.youtube.com/watch?v=YCbIjZEtmcY&t=2s>
   - <https://gitlab.com/sevecekp/sph>
 - <https://github.com/N0rvel/galaxy_sim?tab=readme-ov-file>
