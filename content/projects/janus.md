@@ -33,3 +33,9 @@ Le deuxième scénario intéressant serait d'avoir une distribution sphérique n
 
 - <https://github.com/Lecrapouille/Janus>
 - <https://www.youtube.com/watch?v=qxTDZxt9yC4>
+- <https://github.com/AZE38/2DFFT_Janus_Galactic_Toy_Simulation>
+
+## Cittadhammo repo
+
+- <https://github.com/cittadhammo/Galaxy_simulation/tree/master> : Branche de Angel Uriot avec modification des forces et ajout de differents parametres.
+- Je sauve les paramètres qui donnent des bons résultats dans ce [dossier Drive](https://drive.google.com/drive/folders/1tXFFqUIw7dHimga0lHhRDTUVEyZdCxl1?usp=sharing)
