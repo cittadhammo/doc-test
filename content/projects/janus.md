@@ -7,8 +7,6 @@ Some research to make galaxy simulation of the Janus Cosmological Model
 
 ## Janus Model 
 
-- <https://januscosmologicalmodel.com/negativemass>
- 
 Je suis intéressé à modifier le code pour y inclure deux types de masse en accord avec le [modèle cosmologique Janus](https://januscosmologicalmodel.com/). (voir [PDF](https://www.savoir-sans-frontieres.com/JPP/telechargeables/English/janus/The%20Janus%20Cosmological%20Model.pdf) pour détail sur [Arxiv.org](https://arxiv.org/search/?query=jean-pierre+petit&searchtype=author&abstracts=show&order=-announced_date_first&size=50) ou [ResearchGate](https://www.researchgate.net/profile/Jean-Pierre-Petit) ). C'est assez simple à modéliser et j'aimerais essayer avec votre simulateur.
 
 Il suffirait d'ajouter un type aux masses : positive ou négative. 
@@ -20,7 +18,7 @@ Le premier scénario serait de simplement mélanger aléatoirement une proportio
 
 Le deuxième scénario intéressant serait d'avoir une distribution sphérique négative autour d'un noyau positif. 
 
-## Liens intéressants
+## Simulation normal
 
 - <https://github.com/angeluriot/Galaxy_simulation>
 - <https://www.youtube.com/watch?v=YCbIjZEtmcY&t=2s>
@@ -30,4 +28,8 @@ Le deuxième scénario intéressant serait d'avoir une distribution sphérique n
 - <https://github.com/andrewdcampbell/galaxy-sim>
 - <https://github.com/the-halfbloodprince/GalaxyM1199?tab=readme-ov-file>
 - <https://gravitysimulator.org/>
-- 
+
+## Simulation Janus
+
+- <https://github.com/Lecrapouille/Janus>
+- <https://www.youtube.com/watch?v=qxTDZxt9yC4>
